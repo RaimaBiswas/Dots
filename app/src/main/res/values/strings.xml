@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Dots</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="single_player_start_taunt">Tap to face the bots... Human ! </string>
+    <string name="single_player_ai_level_taunt">Tap to choose your opponent...word of Advice, Easy.</string>
+    <string name="single_player_grid_size_taunt">Tap to choose the size of the arena</string>
+    <string name="single_player_color_taunt">Tap to choose the style… be fast and fabulous!</string>
+
+    <string name="multi_player_start_taunt">Tap to start Doting !</string>
+    <string name="multi_player_number_of_players_level_taunt">Tap to choose the number of Players.</string>
+    <string name="multi_player_grid_size_taunt">Tap to choose the size of the arena</string>
+    <string name="multi_player_color_taunt">Tap to choose the style… be fast and fabulous!</string>
+
+    <string name="mixed_start_taunt">Tap to start Doting !</string>
+    <string name="mixed_players_taunt">Tap to choose the Players</string>
+    <string name="mixed_grid_size_taunt">Tap to choose the size of the arena</string>
+    <string name="mixed_color_taunt">Tap to choose the style… be fast and fabulous!</string>
+
+    <string name="achievement_sign_in_taunt">Tap to Sign In!</string>
+    <string name="achievement_sign_out_taunt">Tap to Sign Out!</string>
+    <string name="achievement_show_achievement_taunt">Tap to see the Achievements</string>
+    <string name="achievement_show_leaderboard_taunt">Tap to see the Leaderboard</string>
+    <string name="achievement_show_cloud_saves_taunt">Tap to see your Saves</string>
+
+    <string name="change_bar_color">Bar Color</string>
+
+    <string name="change_box_color">Box Color</string>
+
+    <string name="change_preview_bar_color">Preview Bar Color</string>
+
+    <string name="change_name">Player Name</string>
+
+    <string name="easy_ai_header_text">The Kyth</string>
+    <string name="easy_ai_taunt_text">I throw Dice!</string>
+    <string name="easy_ai_difficulty_text">Difficulty : Easy</string>
+
+    <string name="medium_ai_header_text">Enigma</string>
+    <string name="medium_ai_taunt_text">I know...</string>
+    <string name="medium_ai_difficulty_text">Difficulty : Med.</string>
+
+    <string name="hard_ai_header_text">Lisa</string>
+    <string name="hard_ai_taunt_text">I think therefore I win</string>
+    <string name="hard_ai_difficulty_text">Difficulty : Hard</string>
+
+    <string name="titan_ai_header_text">L</string>
+    <string name="titan_ai_taunt_text">I wrote the Oracle</string>
+    <string name="titan_ai_difficulty_text">Difficulty : Titan</string>
+
+    <string name="human_ai_header_text">The Cerebrum</string>
+    <string name="human_ai_taunt_text">The Natural Intelligence</string>
+    <string name="human_ai_difficulty_text">Ability : Unknown</string>
+
+    <string name="general_header_text">More Options</string>
+    <string name="general_taunt_text">General Settings</string>
+    <string name="general_difficulty_text">Clearance : All</string>
+
+
+</resources>

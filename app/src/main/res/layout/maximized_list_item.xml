@@ -1,0 +1,37 @@
+<?xml version="1.1.1" encoding="utf-8"?>
+<com.andexert.library.RippleView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+    app:rv_color="@android:color/black"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:src="@drawable/maximized__start_icon"
+        android:id="@+id/maximized_list_item_icon"
+        android:background="@color/Orange100"
+    />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:text="Tap to face the bots... Human !"
+        android:textSize="20dp"
+        android:id="@+id/maximized_list_item_text"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+</com.andexert.library.RippleView>

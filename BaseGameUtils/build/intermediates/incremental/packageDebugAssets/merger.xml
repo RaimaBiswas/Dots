@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workplace\Dots\BaseGameUtils\src\main\assets"/><source path="D:\Workplace\Dots\BaseGameUtils\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Workplace\Dots\BaseGameUtils\src\debug\assets"/></dataSet></merger>

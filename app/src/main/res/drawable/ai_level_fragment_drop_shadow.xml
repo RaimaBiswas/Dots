@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Layer 0-->
+    <!--Layer 1-->
+    <!--Layer 2-->
+    <!--Layer 3-->
+    <!--Layer 4 (content background1)-->
+
+    <!-- dropshadow -->
+    <item>
+        <shape>
+            <solid android:color="@color/BlackAlpha10" />
+
+            <padding android:top="@dimen/shadow_step_width" android:right="@dimen/shadow_step_width" android:bottom="@dimen/shadow_step_width" android:left="@dimen/shadow_step_width" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/BlackAlpha20" />
+            <padding android:top="@dimen/shadow_step_width" android:right="@dimen/shadow_step_width" android:bottom="@dimen/shadow_step_width" android:left="@dimen/shadow_step_width" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/BlackAlpha30" />
+            <padding android:top="@dimen/shadow_step_width" android:right="@dimen/shadow_step_width" android:bottom="@dimen/shadow_step_width" android:left="@dimen/shadow_step_width" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/BlackAlpha40" />
+            <padding android:top="@dimen/shadow_step_width" android:right="@dimen/shadow_step_width" android:bottom="@dimen/shadow_step_width" android:left="@dimen/shadow_step_width" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/BlackAlpha50" />
+
+            <padding android:top="@dimen/shadow_step_width" android:right="@dimen/shadow_step_width" android:bottom="@dimen/shadow_step_width" android:left="@dimen/shadow_step_width" />
+        </shape>
+    </item>
+
+    <!-- content background1 -->
+    <item>
+        <shape>
+            <solid android:color="@color/Orange500" />
+        </shape>
+    </item>
+</layer-list>

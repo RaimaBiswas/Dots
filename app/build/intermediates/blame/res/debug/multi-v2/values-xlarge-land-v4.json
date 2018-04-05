@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Workplace\\Dots\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\roypr\\.gradle\\caches\\transforms-1\\files-1.1\\ambilwarna-2.0.aar\\638e159fa57bb129e0fc750417913e62\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,225",
+                        "endColumns": "52,51",
+                        "endOffsets": "220,272"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,51",
+                        "endOffsets": "103,155"
+                    }
+                }
+            ]
+        }
+    ]
+}

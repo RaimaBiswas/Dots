@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">411687331683</string>
+
+    <string name="achievement_initiation">CgkI487o0_0LEAIQDw</string>
+    <string name="achievement_dust_to_dust">CgkI487o0_0LEAIQEA</string>
+    <string name="achievement_judgement_day">CgkI487o0_0LEAIQEQ</string>
+
+    <string name="achievement_the_draft">CgkI487o0_0LEAIQEg</string>
+    <string name="achievement_baptism_of_fire">CgkI487o0_0LEAIQEw</string>
+    <string name="achievement_red_badge_of_fire">CgkI487o0_0LEAIQFA</string>
+
+    <string name="achievement_the_smoking_gun">CgkI487o0_0LEAIQFQ</string>
+    <string name="achievement_d__day">CgkI487o0_0LEAIQFg</string>
+    <string name="achievement_finest_hour">CgkI487o0_0LEAIQFw</string>
+
+    <string name="achievement_noob_no_more">CgkI487o0_0LEAIQAQ</string>
+    <string name="achievement_the_imitation_game">CgkI487o0_0LEAIQBQ</string>
+    <string name="achievement_apples_and_oranges">CgkI487o0_0LEAIQBg</string>
+    <string name="achievement_lollipoped">CgkI487o0_0LEAIQBw</string>
+
+
+    <string name="achievement_deputy">CgkI487o0_0LEAIQGA</string>
+    <string name="achievement_questor">CgkI487o0_0LEAIQGQ</string>
+    <string name="achievement_magistrate">CgkI487o0_0LEAIQGg</string>
+    <string name="achievement_decurion">CgkI487o0_0LEAIQGw</string>
+    <string name="achievement_centurion">CgkI487o0_0LEAIQHA</string>
+    <string name="achievement_caesar">CgkI487o0_0LEAIQMQ</string>
+
+    <string name="achievement_limitanei">CgkI487o0_0LEAIQHQ</string>
+    <string name="achievement_hastati">CgkI487o0_0LEAIQHg</string>
+    <string name="achievement_triarii">CgkI487o0_0LEAIQHw</string>
+    <string name="achievement_the_x_legion">CgkI487o0_0LEAIQIA</string>
+    <string name="achievement_the_pretorian_cohorts">CgkI487o0_0LEAIQIQ</string>
+
+    <string name="achievement_the_conqueror">CgkI487o0_0LEAIQJw</string>
+    <string name="achievement_the_annihilator">CgkI487o0_0LEAIQKA</string>
+    <string name="achievement_the_exalted">CgkI487o0_0LEAIQDg</string>
+    <string name="achievement_the_great">CgkI487o0_0LEAIQKQ</string>
+
+    <string name="achievement_principality">CgkI487o0_0LEAIQIg</string>
+    <string name="achievement_kingdom">CgkI487o0_0LEAIQIw</string>
+    <string name="achievement_empire">CgkI487o0_0LEAIQJA</string>
+    <string name="achievement_industrial_power">CgkI487o0_0LEAIQJQ</string>
+    <string name="achievement_superpower">CgkI487o0_0LEAIQJg</string>
+
+    <string name="achievement_failure_is_the_pillar_of_err_failure">CgkI487o0_0LEAIQLg</string>
+    <string name="achievement_loc">CgkI487o0_0LEAIQLw</string>
+
+    <string name="achievement_guerrilla">CgkI487o0_0LEAIQKg</string>
+    <string name="achievement_the_grand_bargain">CgkI487o0_0LEAIQKw</string>
+    <string name="achievement_champion">CgkI487o0_0LEAIQMA</string>
+
+    <string name="achievement_subterfuge">CgkI487o0_0LEAIQLA</string>
+    <string name="achievement_oneman_army">CgkI487o0_0LEAIQLQ</string>
+
+
+    <string name="leaderboard_the_kyth_easy_ai">CgkI487o0_0LEAIQNA</string>
+    <string name="leaderboard_enigma_medium_ai">CgkI487o0_0LEAIQMw</string>
+    <string name="leaderboard_lisa_hard_ai">CgkI487o0_0LEAIQMg</string>
+    <string name="leaderboard_l_titan_ai">CgkI487o0_0LEAIQCA</string>
+
+</resources>

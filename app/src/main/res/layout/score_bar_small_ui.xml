@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout android:id="@+id/score_bar_small_full"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:background="@color/White"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout android:id="@+id/score_bar_small"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/game_bar_drop_shadow"
+    >
+
+    <ImageView android:id="@+id/active_player_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        />
+
+    <TextView android:id="@+id/active_player_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/White"
+        android:text="Player Name : "
+        android:layout_weight="1"
+        />
+
+    <TextView android:id="@+id/active_player_score"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/White"
+        android:text="Player Score "
+        android:layout_weight="1"
+        />
+</LinearLayout>
+
+</FrameLayout>

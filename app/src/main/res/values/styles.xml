@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="DialogAnimation">
+
+        <item name="colorPrimaryDark">@color/DeepPurple700</item>
+        <item name="android:windowEnterAnimation">@anim/dialog_rotate_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_rotate_out</item>
+
+    </style>
+
+</resources>

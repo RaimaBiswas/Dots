@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="player_one_bar_color">@color/Blue200</color>
+    <color name="player_two_bar_color">@color/Pink200</color>
+
+    <color name="player_one_box_color">@color/BlueA200</color>
+    <color name="player_two_box_color">@color/PinkA200</color>
+
+    <color name="game_bar_background_color">@color/Grey900</color>
+    <color name="game_bar_foreground_color">@color/White</color>
+
+    <color name="activity_background_color">@color/White</color>
+    <color name="unfilled_box_color">@color/activity_background_color</color>
+    <color name="unfilled_bar_color">@color/activity_background_color</color>
+
+    <color name="minimized_menu_background_color">@color/Green100</color>
+    <color name="minimized_menu_divider_start">@color/Black</color>
+    <color name="minimized_menu_divider_middle">@color/White</color>
+    <color name="minimized_menu_divider_end">@color/Black</color>
+
+
+
+
+    <color name="minimized_menu_shadow_step_5">@color/BlackAlpha10</color>
+    <color name="minimized_menu_shadow_step_4">@color/BlackAlpha20</color>
+    <color name="minimized_menu_shadow_step_3">@color/BlackAlpha30</color>
+    <color name="minimized_menu_shadow_step_2">@color/BlackAlpha40</color>
+    <color name="minimized_menu_shadow_step_1">@color/BlackAlpha50</color>
+
+
+
+
+    <color name="image_view_border_color">@color/Indigo500</color>
+
+</resources>

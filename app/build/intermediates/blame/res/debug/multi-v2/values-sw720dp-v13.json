@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Workplace\\Dots\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\roypr\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\cabb22f1b5a09fb95f5ee5c6730c1ee6\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,58",
+                        "endOffsets": "108,167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\roypr\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\f1c811e81b0e353136bc0c28204368a8\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "172",
+                        "endColumns": "51",
+                        "endOffsets": "219"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\roypr\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-27.1.0.aar\\71adc67931747ea607389836566fa307\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "224,293",
+                        "endColumns": "68,68",
+                        "endOffsets": "288,357"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.johnpersano\supertoasts\1.3.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e58dce1ec89cd4706295d355aaf920aee3d91c5">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-dce9d249169204ac46cfdd5c5c932cc735c445c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a188333bb94bc6b8364527797e3b5c97b37a9e49">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-6e2f679118481a0185bc6e9a717d6ac7c720764e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\library-2.4.0-e79615bbecb9f92d6affa9a232c3a4ff1b0f73aa.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.afollestad\material-dialogs\0.7.6.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c83e45c56a824bc54f276b2fa071f1914cceba7">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-2db9de3b4befda69991b0d7879459954a1aa9c83.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.androidsx\rate-me\v3.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="324370f3a60d83de520e80f8f6997c02b4d293bc">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-a548bbf0b6f0d249ab5669767b6cebf627ee8d01.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\Dots\BaseGameUtils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="115b07539a04e51009887682812d597e979763e1">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-c775c20fde09cb0f078f545242e2787a5043519b.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-96e7c56c8fefe00aae6fad3f85680f6fbbf81f17.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-3a80c11d75547b06649f2df357d9d4f56f0c68b3.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-9ef506879c5aad0f63241a2cd08574ec931ec6f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-89a8fc5ce1615fa1b3d9cabe8eb24a7822722f98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.QuadFlask\colorpicker\0.0.9\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93aec1a27134f2d5fd94631996b3b3e1265df825">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-e52bde26bd3d5a59b95181d4c6391190bfe9b650.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.paolorotolo\appintro\2.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c069b1c564f3e26bb5377e5362cb7f9a27d18b52">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-54b2546277c6ff77f9d892852a1383afc278aeac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.androidsx\rate-me\v3.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="324370f3a60d83de520e80f8f6997c02b4d293bc">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-881f764a5124a6d441ff8b984f8d68e250a9af6a.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-bea85c3cba529a9755885122f9a50260c3dd411d.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-042561830b6590e167e0442414084c20581b4e4a.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.yukuku\ambilwarna\2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a188333bb94bc6b8364527797e3b5c97b37a9e49">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-b66b304ff55b61fc7feb991c7ca9df656a5ad6f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-f334ffe0855344110897f2d5eb8acb4d16f539c0.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-7507146342c1d7ef6d90e179e85f16ef95f5c934.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-f4ef72b6284a9816020c46b123ea4e17f1031739.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.johnpersano\supertoasts\1.3.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e58dce1ec89cd4706295d355aaf920aee3d91c5">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-15ffff1cd65f6bcba135da6a3a9eb725122f71d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-b4fef6d3d254cb791889cf1d99f442ae904932ef.jar" />
+    </item>
+    <item
+        jar="D:\Programs [Installed]\Programming Tools\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-598d097a82ed671e1664370e31ccd7f58345c0e1.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-f14752034c3c1dc7a11b486ce3da6de386e90a2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\Dots\BaseGameUtils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3802f388ea39098c65d049feba6212a7a255d157">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-16581d032a846dad6cdef89b2ac84ba887b511c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-2bea374dae246022d6908e095cbc53c719671ec8.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.github.QuadFlask\colorpicker\0.0.9\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93aec1a27134f2d5fd94631996b3b3e1265df825">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\classes-f146f1a1b2cbcf10ad569e31724bbeabe2b665e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\libs\LeonidsLib-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b13496f0fe0509ede30cb24801ebeb4aac5baea">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\LeonidsLib-1.3-ad320405cef91f0d9f4a6a9a43ab165810eafeed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.afollestad\material-dialogs\0.7.6.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c83e45c56a824bc54f276b2fa071f1914cceba7">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-3e53db968fdbcd4769df3f1646742060f43872d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-672c609d5805dcc558b41f746fe380f3cb05536d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.paolorotolo\appintro\2.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c069b1c564f3e26bb5377e5362cb7f9a27d18b52">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-e80d350f44364d01c923f3f08f669102291249ba.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\libs\LeonidsLib-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b13496f0fe0509ede30cb24801ebeb4aac5baea">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\LeonidsLib-1.3-76ed3ff9b9387a4a7120677784b7215855047ff3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-10ef2716c03e921d4e6f0e5238a37f5fbf7a995f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-4e5828bf90bc983789f3583b5116611b77d59f00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-bf8397fb0663bf4f18bc0af80243babd24ca0a35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\Pratick\Dropbox\Dots\Debug\Dots\app\build\intermediates\pre-dexed\debug\classes-d86f86a67e640da5b00e71b1a3798a07a1a2322f.jar" />
+    </item>
+    <item
+        jar="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Documents\ProgrammingProjects\AndroidProjects\AndroidStudioProjects\Dots\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0163bbc9e2b9fca8b7512b3e85cb420129b71fe5.jar" />
+    </item>
+
+</items>

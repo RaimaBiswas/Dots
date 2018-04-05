@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="game_bar_shadow_padding_top_step_height">2px</dimen>
+    <dimen name="minimized_menu_list_shadow_padding_right_step_width">2px</dimen>
+
+    <dimen name="shadow_step_width">4px</dimen>
+
+</resources>

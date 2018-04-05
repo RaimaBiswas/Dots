@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.QuadFlask:colorpicker:0.0.9] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\colorpicker-0.0.9.aar\a22910fe7b87324dd2cc904d7ddfcfa7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:mediarouter-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.0.aar\71adc67931747ea607389836566fa307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:2:1-13:12
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\5fef469c23b3dc39f3f694d648c2b4bd\AndroidManifest.xml:2:1-10:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\commons-0.9.6.0.aar\c957bd8d01b817706f6ff8928da2bfd2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e6dc4d748106d7d5ddc4f358c7d7a303\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0971cc68b6b321fc86dfc6aed3271c92\AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.3.0.aar\a0205bae2cdc49e01d0245443b3d7445\AndroidManifest.xml:2:1-12:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\e7cf29765f84c030f68b86433e143ddd\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\9f4fcb6cfb80755ca50ad475899db983\AndroidManifest.xml:17:1-22:12
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\9bb4b3ed579f7d8b34b3a28ac0a44dab\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\supertoasts-1.3.4.aar\3db1e11d17aef44f9e1213fa86bec0f4\AndroidManifest.xml:1:92-7:12
+MERGED from [com.github.yukuku:ambilwarna:2.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ambilwarna-2.0.aar\638e159fa57bb129e0fc750417913e62\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.androidsx:rate-me:v3.0.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\rate-me-v3.0.2.aar\92b98f3c4b2c68b5f83a312a14de888b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a3145c9252b67e8004b5e7af3309af87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ea8f70567e9d2348668bb0473044f36b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\29f45cfca25b2c3f0ee68bc55028b1c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3c61d027a2445ef24f3ba0246518fded\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\010c9a0aa6594090c1a53cd002470bcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1f065e42830af093e25a9c29476669ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\47f16790e62e58e2b349fd47d1534953\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\2b3878811cc71072fac7dddcdd43aaa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f859e40829bf8e628b0ac90418002f20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e572824178440ba3f32ddf42645cce9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\931ffdd5150d3bab3871d40c087474cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d4e1ba9e9b6a18f8c3fbdd16dd87fc02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d28d212869d80a283620f786c52740ff\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:6:5-42
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:5:5-51
+	android:versionCode
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:4:5-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:10:9-71
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:10:26-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:11:9-83
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:11:26-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:15:9-72
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:15:26-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:17:22-63
+application
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:19:5-90:19
+MERGED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:5-31:19
+MERGED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:5-31:19
+MERGED from [com.github.QuadFlask:colorpicker:0.0.9] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\colorpicker-0.0.9.aar\a22910fe7b87324dd2cc904d7ddfcfa7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.QuadFlask:colorpicker:0.0.9] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\colorpicker-0.0.9.aar\a22910fe7b87324dd2cc904d7ddfcfa7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:11:5-47
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:11:5-47
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\commons-0.9.6.0.aar\c957bd8d01b817706f6ff8928da2bfd2\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\commons-0.9.6.0.aar\c957bd8d01b817706f6ff8928da2bfd2\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:13:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\e7cf29765f84c030f68b86433e143ddd\AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\e7cf29765f84c030f68b86433e143ddd\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\9bb4b3ed579f7d8b34b3a28ac0a44dab\AndroidManifest.xml:12:5-20
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\9bb4b3ed579f7d8b34b3a28ac0a44dab\AndroidManifest.xml:12:5-20
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\supertoasts-1.3.4.aar\3db1e11d17aef44f9e1213fa86bec0f4\AndroidManifest.xml:5:5-19
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\supertoasts-1.3.4.aar\3db1e11d17aef44f9e1213fa86bec0f4\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:20:5-24:19
+	android:supportsRtl
+		ADDED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:11:18-44
+	android:label
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:18-44
+	android:icon
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:22:9-38
+	android:theme
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:24:9-40
+	tools:replace
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:21:9-51
+meta-data#com.google.android.gms.analytics.globalConfigResource
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:28:9-30:63
+	android:resource
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:30:13-60
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:29:13-81
+meta-data#com.google.android.gms.version
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:37:13-39:73
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:39:17-70
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:38:17-62
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:44:13-49:24
+	android:enabled
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:45:17-39
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:44:23-88
+intent-filter#action:name:com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:46:17-48:33
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:47:21-98
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:47:29-95
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:51:13-53:43
+	android:enabled
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:52:17-39
+	android:exported
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:53:17-41
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:51:22-86
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:55:9-57:46
+	android:value
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:57:13-43
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:56:13-63
+activity#com.dots.games.pratick.dots.Intro.IntroActivity
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:62:9-70:20
+	android:screenOrientation
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:63:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:66:13-69:29
+action#android.intent.action.MAIN
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:68:27-74
+activity#com.dots.games.pratick.dots.DotsUI
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:73:13-35
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:81:13-86:24
+	android:exported
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:82:17-40
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:81:23-95
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:83:17-85:33
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:84:21-83
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:84:29-80
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:87:13-96
+	android:name
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml:87:22-93
+uses-sdk
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+MERGED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.9] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\colorpicker-0.0.9.aar\a22910fe7b87324dd2cc904d7ddfcfa7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.9] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\colorpicker-0.0.9.aar\a22910fe7b87324dd2cc904d7ddfcfa7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:mediarouter-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.0.aar\71adc67931747ea607389836566fa307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.0.aar\71adc67931747ea607389836566fa307\AndroidManifest.xml:20:5-44
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\cabb22f1b5a09fb95f5ee5c6730c1ee6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\5fef469c23b3dc39f3f694d648c2b4bd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-2.0.3.aar\5fef469c23b3dc39f3f694d648c2b4bd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\commons-0.9.6.0.aar\c957bd8d01b817706f6ff8928da2bfd2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\commons-0.9.6.0.aar\c957bd8d01b817706f6ff8928da2bfd2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e6dc4d748106d7d5ddc4f358c7d7a303\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\e6dc4d748106d7d5ddc4f358c7d7a303\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0971cc68b6b321fc86dfc6aed3271c92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\0971cc68b6b321fc86dfc6aed3271c92\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.3.0.aar\a0205bae2cdc49e01d0245443b3d7445\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.3.0.aar\a0205bae2cdc49e01d0245443b3d7445\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\e7cf29765f84c030f68b86433e143ddd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\e7cf29765f84c030f68b86433e143ddd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\9f4fcb6cfb80755ca50ad475899db983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\9f4fcb6cfb80755ca50ad475899db983\AndroidManifest.xml:20:5-44
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\9bb4b3ed579f7d8b34b3a28ac0a44dab\AndroidManifest.xml:8:5-10:41
+MERGED from [com.patrickpissurno:ripple-effect:1.3.1] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\9bb4b3ed579f7d8b34b3a28ac0a44dab\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\supertoasts-1.3.4.aar\3db1e11d17aef44f9e1213fa86bec0f4\AndroidManifest.xml:3:5-72
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\supertoasts-1.3.4.aar\3db1e11d17aef44f9e1213fa86bec0f4\AndroidManifest.xml:3:5-72
+MERGED from [com.github.yukuku:ambilwarna:2.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ambilwarna-2.0.aar\638e159fa57bb129e0fc750417913e62\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.yukuku:ambilwarna:2.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\ambilwarna-2.0.aar\638e159fa57bb129e0fc750417913e62\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.androidsx:rate-me:v3.0.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\rate-me-v3.0.2.aar\92b98f3c4b2c68b5f83a312a14de888b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.androidsx:rate-me:v3.0.2] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\rate-me-v3.0.2.aar\92b98f3c4b2c68b5f83a312a14de888b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\8f465ad6111ca21b07da2fe017c47859\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a3145c9252b67e8004b5e7af3309af87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\a3145c9252b67e8004b5e7af3309af87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ea8f70567e9d2348668bb0473044f36b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ea8f70567e9d2348668bb0473044f36b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\29f45cfca25b2c3f0ee68bc55028b1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\29f45cfca25b2c3f0ee68bc55028b1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3c61d027a2445ef24f3ba0246518fded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\3c61d027a2445ef24f3ba0246518fded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\010c9a0aa6594090c1a53cd002470bcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\010c9a0aa6594090c1a53cd002470bcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1f065e42830af093e25a9c29476669ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1f065e42830af093e25a9c29476669ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\47f16790e62e58e2b349fd47d1534953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\47f16790e62e58e2b349fd47d1534953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\2b3878811cc71072fac7dddcdd43aaa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\2b3878811cc71072fac7dddcdd43aaa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f859e40829bf8e628b0ac90418002f20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\f859e40829bf8e628b0ac90418002f20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e572824178440ba3f32ddf42645cce9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e572824178440ba3f32ddf42645cce9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\931ffdd5150d3bab3871d40c087474cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\931ffdd5150d3bab3871d40c087474cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d4e1ba9e9b6a18f8c3fbdd16dd87fc02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d4e1ba9e9b6a18f8c3fbdd16dd87fc02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d28d212869d80a283620f786c52740ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d28d212869d80a283620f786c52740ff\AndroidManifest.xml:20:5-44
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\roypr\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\f1c811e81b0e353136bc0c28204368a8\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workplace\Dots\app\src\main\AndroidManifest.xml
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-28:32
+	android:value
+		ADDED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:9-29
+	android:name
+		ADDED from [:BaseGameUtils] D:\Workplace\Dots\BaseGameUtils\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-63

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/cloud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <GridLayout android:id="@+id/game_ui_grid"
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/White"
+        >
+
+    </GridLayout>
+
+    <FrameLayout android:id="@+id/animator_screen"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+
+
+    <RelativeLayout
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_dark_save"
+            android:alpha="0"
+            android:clickable="false"
+            fab:fab_colorNormal="@color/Cyan500"
+            fab:fab_colorPressed="@color/Cyan700"
+            fab:fab_colorRipple="@color/Cyan600"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"/>
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/column_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/add"
+            android:alpha="0"
+            android:clickable="false"
+            fab:fab_type="mini"
+            fab:fab_colorNormal="@color/Lime500"
+            fab:fab_colorPressed="@color/Lime700"
+            fab:fab_colorRipple="@color/Lime600"
+            android:layout_toRightOf="@id/done"
+            android:layout_marginLeft="5dp"
+            android:layout_centerVertical="true" />
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/column_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/remove"
+            android:alpha="0"
+            android:clickable="false"
+            fab:fab_type="mini"
+            fab:fab_colorNormal="@color/OrangeA200"
+            fab:fab_colorPressed="@color/OrangeA700"
+            fab:fab_colorRipple="@color/OrangeA400"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/done"
+            android:layout_centerVertical="true" />
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/row_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/add"
+            android:alpha="0"
+            android:clickable="false"
+            fab:fab_type="mini"
+            fab:fab_colorNormal="@color/PurpleA100"
+            fab:fab_colorPressed="@color/PurpleA400"
+            fab:fab_colorRipple="@color/PurpleA200"
+            android:layout_below="@id/done"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true" />
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/row_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/remove"
+            android:alpha="0"
+            android:clickable="false"
+            fab:fab_type="mini"
+            fab:fab_colorNormal="@color/RedA100"
+            fab:fab_colorPressed="@color/RedA400"
+            fab:fab_colorRipple="@color/RedA200"
+            android:layout_marginBottom="5dp"
+            android:layout_above="@id/done"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/grid_ui_screen"
+
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <TextView android:id="@+id/conclusion_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:background="@drawable/banner"
+            android:clickable="false"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+        <com.melnykov.fab.FloatingActionButton
+
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:clickable="false"
+            android:src="@drawable/menu"
+            fab:fab_colorNormal="@color/Orange500"
+            fab:fab_colorPressed="@color/Orange500"
+            fab:fab_colorRipple="@color/Orange500"
+            android:layout_below="@id/conclusion_image"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>
